@@ -1,8 +1,8 @@
-#How many number are available that can devide provided number
+#How many number are available that can divide provided number
 
 num = int(input('Enter the number (1 to 1,00,00,000) :- '))
 
-print('List of int that can devide '+ str(num) + ' :- ')
+print('List of number that can divide'+ str(num) + ' :- ')
 
 for i in range(10000000):
     if num == i:
