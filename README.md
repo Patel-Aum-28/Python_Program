@@ -1,2 +1,5 @@
 # Python_Program
-Collection of Python programs created during my learning journey.
+
+Welcome to my Python playground! 🐍✨🚀 
+
+Here, I've shared the Python programs I've explored while learning this language. From simple scripts to little projects, it's all here.
