@@ -3,8 +3,8 @@
 interval = int(input("Input the range (Greater than 2):- "))
 
 for num in range(2, interval):
-    for devide in range(2, num):
-        if num % devide == 0:
+    for divide in range(2, num):
+        if num % divide == 0:
             break
     else:
         print(num)
