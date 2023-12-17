@@ -6,7 +6,7 @@ a = 0
 b = 1
 count = 0
 
-if interval <= 0:
+if interval < 0:
     print (f"The fibonacci series until {interval} is: \nTerm({interval}): 0")
 elif interval == 1 or interval == 2:
     print (f"The fibonacci series until {interval} is: \nTerm({interval}): 1")
